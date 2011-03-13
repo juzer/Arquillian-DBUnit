@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<departments id="1" name="Financial" />
+	<departments id="2" name="IT" />
+	<departments id="3" name="R&amp;D" />
+
+	<!-- financial -->
+	<employees id="1" firstName="John" lastName="Mayall" dept_id="1" />
+	<employees id="2" firstName="Ann" lastName="Hendricks" dept_id="1" />
+	<!-- IT -->
+	<employees id="3" firstName="Ray" lastName="Boon" dept_id="2" />
+	<employees id="4" firstName="Jon" lastName="Kovalsky" dept_id="2" />
+	<employees id="5" firstName="Alan" lastName="Moore" dept_id="2" />
+	<!-- R&D -->
+	<employees id="6" firstName="Mary" lastName="James" dept_id="3" />
+	<employees id="7" firstName="Luke" lastName="Arbikan" dept_id="3" />
+	<employees id="8" firstName="Rachel" lastName="Tannenbaum"
+		dept_id="3" />
+</dataset>
